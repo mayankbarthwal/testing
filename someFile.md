@@ -1,5 +1,5 @@
-#Terminal Error
+# Terminal Error
 
 ![image](https://user-images.githubusercontent.com/59953630/79203094-28813680-7e58-11ea-9b0e-afc1ea7dc3e7.png)
 
-##footer
+## footer
